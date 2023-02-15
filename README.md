@@ -9,3 +9,4 @@ para una aplicación Java con Spring Boot y Maven. Se conectará Github con Jenk
 que se realice un commit en el repositorio se ejecute de forma automática el pipeline de Jenkins.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Build and test of Java Project](https://github.com/ETSISI-EMS/ems2023_lab_1_2_ci_jenkins-DanielLeandroB/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2023_lab_1_2_ci_jenkins-DanielLeandroB/actions/workflows/main.yml)
